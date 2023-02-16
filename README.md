@@ -1,6 +1,4 @@
 
-javascript-best-practice [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/docdis/javascript-best-practice/issues)
-========================
 
 This repository contains a collection of JavaScript resources specifically designed for beginners. Whether you're new to programming or just getting started with JavaScript, these resources can provide a solid foundation for your learning.
 

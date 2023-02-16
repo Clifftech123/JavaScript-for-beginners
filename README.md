@@ -31,3 +31,7 @@ Overall, using JavaScript in the backend allows developers to build scalable and
 
 Overall, JavaScript is a powerful and versatile language that is essential for modern web development. It is constantly evolving and improving, with new features and capabilities being added with each new version.
 ### Table of Contents
+
+1. [Variables-and-data-types]()
+2. 
+

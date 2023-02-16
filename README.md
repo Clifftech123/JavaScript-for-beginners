@@ -8,5 +8,3 @@ However, even if you're an experienced developer, you can still benefit from rev
 
 Regardless of your level of experience, starting with these JavaScript resources can help you build a strong foundation in the language and make it easier to progress to more complex concepts.
 
-
-## Table of Contents

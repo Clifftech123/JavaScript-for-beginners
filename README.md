@@ -12,7 +12,7 @@ JavaScript is a programming language that is primarily used to add interactive a
 
 JavaScript was first developed by Brendan Eich at Netscape in 1995, and has since become one of the most widely used programming languages in the world. It is supported by all major web browsers, including Chrome, Firefox, Safari, and Internet Explorer/Edge, and has a large community of developers who create and maintain libraries and frameworks for the language.
 
-Some common features of JavaScript include:
+Some common features of JavaScript include:  
 
 1.Dynamic HTML manipulation: JavaScript can be used to manipulate the HTML and CSS of a web page, allowing developers to create dynamic and interactive content.
 

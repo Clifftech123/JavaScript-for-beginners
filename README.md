@@ -30,7 +30,7 @@ Using JavaScript in the backend provides a number of benefits for web developers
 Overall, using JavaScript in the backend allows developers to build scalable and efficient web applications using a language that is already familiar to many frontend developers. This can help reduce the learning curve and make it easier to build high-quality web applications.
 
 Overall, JavaScript is a powerful and versatile language that is essential for modern web development. It is constantly evolving and improving, with new features and capabilities being added with each new version.
-### Table of Contents
+## Table of Contents
 1. [Variables and data types](https://github.com/Clifftech123/JavaScript-for-beginners/tree/main/01.Variables-and-data-types) 
 2. [Operators and expressions](https://github.com/Clifftech123/JavaScript-for-beginners/tree/main/02.Operators-and-expressions)
 3. [Conditionals and loops](https://github.com/Clifftech123/JavaScript-for-beginners/tree/main/03.Conditionals-and-loops)

@@ -7,7 +7,7 @@ However, even if you're an experienced developer, you can still benefit from rev
 Regardless of your level of experience, starting with these JavaScript resources can help you build a strong foundation in the language and make it easier to progress to more complex concepts.
 
 
-![javascript] (https://github.com/Clifftech123/JavaScript-for-beginners/blob/main/images/javascript.png?raw=true)
+![javascript](images/javascript.png)
 JavaScript is a programming language that is primarily used to add interactive and dynamic elements to web pages. It is a high-level, interpreted language that is integrated with HTML and CSS. JavaScript can be used for a wide range of applications, including building web and mobile applications, game development, and creating browser extensions.
 
 JavaScript was first developed by Brendan Eich at Netscape in 1995, and has since become one of the most widely used programming languages in the world. It is supported by all major web browsers, including Chrome, Firefox, Safari, and Internet Explorer/Edge, and has a large community of developers who create and maintain libraries and frameworks for the language.

@@ -10,6 +10,3 @@ Regardless of your level of experience, starting with these JavaScript resources
 
 
 ## Table of Contents
-
-- [javascript-best-practice ](#javascript-best-practice-)
-  - [Table of Contents](#table-of-contents)

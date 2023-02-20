@@ -344,3 +344,6 @@ console.log(myArray); // [1, 2, 3]
 Arrays also have several other built-in methods for manipulating their contents, such as shift() and unshift() for adding and removing elements from the beginning of the array, and splice() for adding or removing elements at any position in the array.
 
 Arrays are a fundamental part of JavaScript and are used extensively in web development for handling collections of data, such as the results of a database query or a list of items to display on a page.
+
+
+

@@ -8,8 +8,8 @@ In JavaScript, variables are declared using the var, let, or const keywords, fol
 
 | Data Types | Description | Example 
 | --------    | -------- |     -------- | 
-| Strings | integers and floating-point numbers | 1,2,3,4,5,6,7,8,9 
-| Numbers | sequences of characters | Hello Clifford 
+| Strings | integers and floating-point numbers | Hello Clifford 
+| Numbers | sequences of characters | 1, 2, 3, 4 etc.
 | BigInt | An integer with arbitrary precision |900719925124740999n , 1n etc.
 | Booleans | values that can be either true or false | true, false
 | Null | A value representing nothing | null

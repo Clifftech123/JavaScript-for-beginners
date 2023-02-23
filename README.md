@@ -15,6 +15,7 @@ Regardless of your level of experience, starting with these JavaScript resources
 
 
 ![javascript](images/javascript.png)
+## Introduction to JavaScript
 JavaScript is a programming language that is primarily used to add interactive and dynamic elements to web pages. It is a high-level, interpreted language that is integrated with HTML and CSS. JavaScript can be used for a wide range of applications, including building web and mobile applications, game development, and creating browser extensions.
 
 JavaScript was first developed by Brendan Eich at Netscape in 1995, and has since become one of the most widely used programming languages in the world. It is supported by all major web browsers, including Chrome, Firefox, Safari, and Internet Explorer/Edge, and has a large community of developers who create and maintain libraries and frameworks for the language.

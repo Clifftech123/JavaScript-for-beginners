@@ -3,7 +3,7 @@
 
 
 ## Contributions
-*Contributions are welcome! Feel free to contribute to this repository to make it easier for others to master JavaScript. Please follow the [contribution]() instructions provided to ensure a smooth and efficient contribution process.*
+*Contributions are welcome! Feel free to contribute to this repository to make it easier for others to master JavaScript. Please follow the [contribution](https://github.com/Clifftech123/JavaScript-for-beginners/blob/main/CONTRIBUTING.md) instructions provided to ensure a smooth and efficient contribution process.*
 
 
 This repository contains a collection of JavaScript resources specifically designed for beginners. Whether you're new to programming or just getting started with JavaScript, these resources can provide a solid foundation for your learning.

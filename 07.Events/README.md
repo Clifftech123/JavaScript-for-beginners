@@ -110,84 +110,6 @@ In this example, an event listener is added to the window object. When an error 
 
 These are just a few examples of the many browser events that can be handled in JavaScript. There are many more events that can be handled, such as the unload event, the hashchange event, the popstate event, the offline event, the online event, the message event, the storage event, and many more.
 
-**_System events:_** are events that are not related to the user or the browser, such as a timer or a server response.
-
-Here are some examples of system events in JavaScript:
-
-- Timeout Event:
-  The most common system event in JavaScript is the timeout event. This event is triggered after a specified amount of time. Here is an example of how to handle a timeout event:
-
-```javascript
-setTimeout(function () {
-    console.log("Timeout!");
-}, 1000);
-```
-
-In this example, a timeout event is set to trigger after 1 second. When the timeout event is triggered, the function inside the event listener is executed and the message "Timeout!" is logged to the console.
-
-
-- Interval Event:
-  Another common system event is the interval event. This event is triggered repeatedly after a specified amount of time. Here is an example of how to handle an interval event:
-
-```javascript
-setInterval(function () {
-    console.log("Interval!");
-}, 1000);
-```
-
-In this example, an interval event is set to trigger every 1 second. When the interval event is triggered, the function inside the event listener is executed and the message "Interval!" is logged to the console.
-
-- Animation Frame Event:
-  Another common system event is the animation frame event. This event is triggered before the browser repaints the screen. Here is an example of how to handle an animation frame event:
-
-```javascript
-function animate() {
-    console.log("Animation frame!");
-    requestAnimationFrame(animate);
-}
-
-requestAnimationFrame(animate);
-```
-
-In this example, an animation frame event is set to trigger before the browser repaints the screen. When the animation frame event is triggered, the function inside the event listener is executed and the message "Animation frame!" is logged to the console.
-
-
-- Server Response Event:
-  Another common system event is the server response event. This event is triggered when the server responds to a request. Here is an example of how to handle a server response event:
-
-```javascript
-const request = new XMLHttpRequest();
-request.open("GET", "https://example.com");
-request.send();
-
-request.addEventListener("load", function () {
-    console.log("Server response: " + request.responseText);
-});
-```
-
-In this example, a server response event is set to trigger when the server responds to a request. When the server response event is triggered, the function inside the event listener is executed and the message "Server response: [response]" is logged to the console, where [response] is replaced with the actual server response.
-
-
-- Server Error Event:
-  Another common system event is the server error event. This event is triggered when the server responds with an error. Here is an example of how to handle a server error event:
-
-```javascript
-
-const request = new XMLHttpRequest();
-request.open("GET", "https://example.com");
-request.send();
-
-request.addEventListener("error", function () {
-    console.log("Server error: " + request.status);
-});
-```
-
-In this example, a server error event is set to trigger when the server responds with an error. When the server error event is triggered, the function inside the event listener is executed and the message "Server error: [status]" is logged to the console, where [status] is replaced with the actual server error status.
-
-
-- Server Timeout Event:
-  Another common system event is the server timeout event. This event is triggered when the server does not respond within a specified amount of time. Here is an example of how to handle a server timeout event:
-
 
 ## **_Event Listeners:_**
 
@@ -212,7 +134,7 @@ window.addEventListener("resize", function () {
 In this example, an event listener is added to the window object. When the browser window is resized, the function inside the event listener is executed and the message "Window resized!" is logged to the console.
 
 
-## **_Event Object:_**
+## **_Event Propagation::_**
 
  JavaScript events have a concept called event propagation, which refers to the order in which events are handled by elements in the DOM tree. When an event occurs on an element, the event is first handled by the element itself, then its parent element, and so on until the event reaches the document object.
 

@@ -50,8 +50,8 @@ fetch(DataJson)
 	.catch((error) => console.error(error));
 ```
 
-    In this code, the fetch() function returns a Promise that resolves with the response object. The first then() method converts the response object to JSON, and the second then() method logs the data to the console. The catch() method logs any errors to the console.
-    Promises are most useful for  API  implementations in javascript.
+In this code, the fetch() function returns a Promise that resolves with the response object. The first then() method converts the response object to JSON, and the second then() method logs the data to the console. The catch() method logs any errors to the console.
+Promises are most useful for API implementations in javascript.
 
 ### Async/await in javascript for asynchronous programming
 
@@ -60,15 +60,14 @@ Async/await is a more recent addition to JavaScript, and it provides a more read
 For example, the following code snippet shows an async function that is used to load a JSON file:
 
 ```javascript
-
 async function loadJSON() {
-  try {
-    const response = await fetch('data.json');
-    const data = await response.json();
-    console.log(data);
-  } catch (error) {
-    console.error(error);
-  }
+	try {
+		const response = await fetch("data.json");
+		const data = await response.json();
+		console.log(data);
+	} catch (error) {
+		console.error(error);
+	}
 }
 
 loadJSON();
@@ -76,11 +75,9 @@ loadJSON();
 
 In this code, the loadJSON() function is declared as async, which allows us to use the await keyword inside the function. The try/catch block is used to handle errors. The await keyword is used to wait for the fetch() and response.json() functions to complete before continuing.
 
-
-
 ### Conclusion
-Asynchronous programming is an essential concept in JavaScript, and it's critical to understand it if you want to write efficient, responsive applications. Callbacks, Promises, and async/await are three ways to handle asynchronous operations in JavaScript, and each has its advantages and disadvantages.
 
+Asynchronous programming is an essential concept in JavaScript, and it's critical to understand it if you want to write efficient, responsive applications. Callbacks, Promises, and async/await are three ways to handle asynchronous operations in JavaScript, and each has its advantages and disadvantages.
 
 ## Resources
 

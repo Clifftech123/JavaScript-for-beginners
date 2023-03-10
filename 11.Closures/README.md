@@ -41,6 +41,7 @@ Closures are also commonly used in functional programming techniques such as cur
 var add5 = add(5);
 console.log(add5(3)); // output: 8
 
+if(love === )
 ```
 
 In this example, the add function returns a new function that takes a single argument b and returns the sum of a and b. The value of a is retained in the closure, allowing the returned function to be "curried" with a specific value of a. The add5 variable is assigned the result of calling add(5), which creates a new function that adds 5 to its argument. When add5 is called with an argument of 3, it returns 8.
